@@ -1,0 +1,10 @@
+
+
+
+min_number=0
+max_number=100
+
+number=int(input("input number "))
+
+valid_score=min_number<=number<=max_number
+print("valid score : ", valid_score)
